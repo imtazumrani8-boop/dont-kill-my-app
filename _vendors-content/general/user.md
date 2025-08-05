@@ -1,4 +1,6 @@
----
+---UC PUBG 3000
+
+
 manufacturer:
     - general
 ---
